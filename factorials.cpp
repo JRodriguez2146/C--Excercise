@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 
-    double number1;
-    double factorial = 1.0;
+    int number1;
+    int factorial = 1;
     
 
     cout<< "Please enter a positive whole number: ";
