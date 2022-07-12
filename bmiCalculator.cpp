@@ -15,13 +15,13 @@ int main() {
     cin>> height;
 
     if(bmi < 18.5) {
-        cout<< "Jesus your thin! Go eat something!";
+        cout<< "Your body mass index is below the normal range.";
     }
     else if(bmi == 18.5 && bmi <= 25) {
         cout<< "Your body mass index is within range. Keep up the good work!";
     }
     else {
-        cout<< "You are a bit on the heavy side, buddy.";
+        cout<< "Your body mass index is above the normal range.";
     }
 
     return 0;
