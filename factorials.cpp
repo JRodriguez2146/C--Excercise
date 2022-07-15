@@ -22,7 +22,7 @@ int main() {
 
                 factorial *= i;
         }   
-        cout<< "The factorial of your number is: "<< factorial<< endl;
+        cout<< "The factorial of your number is: "<<factorial<< endl;
     }
 
     return 0;
