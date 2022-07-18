@@ -9,6 +9,7 @@ int main() {
     int input1 = 10;
     int input2 = 10;
 
+    //nested loop creates a multiplication table using multiple inputs
     for(int i = 1; i <= input1; i++) {
         for(int x = 1; x <= input2; x++) {
 

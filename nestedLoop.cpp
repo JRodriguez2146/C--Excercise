@@ -8,8 +8,6 @@ int main() {
 int points;
 int sum = 0;
 
-
-
 for(int z = 0; z < 3; z++) {
 
     do {
