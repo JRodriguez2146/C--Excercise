@@ -18,7 +18,7 @@ int main() {
         cout<< "1";
     }
     else {
-        for(int i= 1; i <= number1; ++i) {
+        for(int i= 1; i <= number1; i++) {
 
                 factorial *= i;
         }   
